@@ -3,13 +3,14 @@
 
 ## What a great day
 
-## What a **great** day *indeed*.  
+What a **great** day *indeed*.  
+  
 Does the formatting make it seem sarcastic?  
 If so, it might be because of:
 1. the *italics*  
 or  
-2. the **bold**
+2. the **bold**  
 or
-3. or **_both_**
+3. **_both_**
 
 I don't even know what this looks like.
